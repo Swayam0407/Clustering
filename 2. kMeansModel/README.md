@@ -1,11 +1,3 @@
-# Project Name
-
-[License](LICENSE.md) | [Contributing](CONTRIBUTING.md)
-
-## Overview
-... content here ...
-
-
 # Pre-Requisites: Clustering Evaluation Metrics
 
 ## Silhouette Score (Range: -1 to 1)
