@@ -26,9 +26,6 @@ This index assesses the average similarity ratio of each cluster with its most s
   - The Davies-Bouldin index decreases as k increases, reaching its lowest value (**0.9500**) at k=6. 
   - This suggests that k=6 has the most compact clusters, though the values do not vary significantly between the different cluster options.
 
-### 4. Homogeneity, Completeness, and Rand Index
-These metrics are not applicable in this context since all values are **0**, indicating either the evaluations are not relevant or there are no ground-truth labels available for comparison. These metrics are more meaningful in supervised settings where true labels exist.
-
 ## Conclusion
 
 Based on the evaluation metrics:
