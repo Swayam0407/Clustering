@@ -38,5 +38,3 @@ To run the analysis:
 4. Evaluation metrics and plots can be found in the `RESULT.md` file.
 5. Finally, my derived conclusions are detailed in the `CONCLUSION.md` file.
 
-## Acknowledgments
-Acknowledge any resources, collaborators, or inspirations that contributed to the development of this project.
