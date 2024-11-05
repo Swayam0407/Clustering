@@ -1,12 +1,9 @@
-# Project Title
-
-## Overview
-A brief description of the project, its purpose, and significance.
+# Clustering Analysis
 
 ## Project Structure
 Here’s an overview of the project's structure. Click on the directory names to navigate directly:
 
-- [model_building](model_building/)
+- [model_building](1. model_building/)
   - [Building_the_model.ipynb](model_building/Building_the_model.ipynb) - Description of what this notebook does.
   
 - [kMeansModel](kMeansModel/)
