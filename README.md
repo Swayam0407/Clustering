@@ -1,4 +1,4 @@
-\# Clustering Analysis
+# Clustering Analysis
 
 ## Overview
 This project explores various clustering algorithms, specifically K-Means and Hierarchical clustering, to analyze and derive insights from datasets. The aim is to understand the effectiveness of these algorithms in grouping data points based on their characteristics.
