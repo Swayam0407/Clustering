@@ -4,7 +4,7 @@
 This project explores various clustering algorithms, specifically K-Means and Hierarchical clustering, to analyze and derive insights from datasets. The aim is to understand the effectiveness of these algorithms in grouping data points based on their characteristics.
 
 ## Dataset Used
-I have used a Pokémon dataset taken from an index in Google Colab. This dataset provides a variety of features relevant to clustering analyses.
+I have used a `Pokémon` dataset taken from an index in Google Colab. This dataset provides a variety of features relevant to clustering analyses.
 
 ## Project Structure
 The project is organized into the following directories and files:
